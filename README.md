@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm V S V V RAGHAVA SHARMA</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on **Python Backend (API's)**
+- 🔭 I’m currently working on **Python Backend (API's) and Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning, FastAPI, Power Bi**
+- 🌱 I’m currently learning **Machine Learning, FastAPI, Power Bi and React.js**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
